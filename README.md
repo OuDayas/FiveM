@@ -39,3 +39,5 @@
 Nel file `config.lua` troverai un'impostazione chiamata `Config.Debug` servirà per controllare il veicolo appena preso tramite notifica in gioco notificando:
 - La quantità delle livree disponibili per il veicolo
 - Il numero dell'ID della livrea configurata
+
+Nello script viene usato il menu **RageUI** che vi è già incluso
